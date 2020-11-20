@@ -1,24 +1,24 @@
-\name{r_utils-package}
-\alias{r_utils-package}
-\alias{r_utils}
+\name{rutils-package}
+\alias{rutils-package}
+\alias{rutils}
 \docType{package}
 \title{
-\packageTitle{r_utils}
+\packageTitle{rutils}
 }
 \description{
-\packageDescription{r_utils}
+\packageDescription{rutils}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{r_utils}
-\packageIndices{r_utils}
+\packageDESCRIPTION{rutils}
+\packageIndices{rutils}
 ~~ An overview of how to use the package, including the most important functions ~~
 }
 \author{
-\packageAuthor{r_utils}
+\packageAuthor{rutils}
 
-Maintainer: \packageMaintainer{r_utils}
+Maintainer: \packageMaintainer{rutils}
 }
 \references{
 ~~ Literature or other references for background information ~~

@@ -13,8 +13,7 @@
 #' @export sort_directory
 sort_directory <- function(){
   filename <- rstudioapi::getActiveDocumentContext()$path
-  if (is.null(wd))
-    wd <- dirname(filename)
+  wd <- dirname(filename)
   
   os_type <- .Platform$OS.type
   output <- list(filename = filename, wd = wd, os_type = os_type)
